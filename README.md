@@ -1,1 +1,1 @@
-# end-to-end-regression-model
+# end-to-end-heart-disease-classification-model
